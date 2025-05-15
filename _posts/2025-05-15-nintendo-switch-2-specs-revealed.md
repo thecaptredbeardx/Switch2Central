@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nintendo Switch 2 Specs Revealed: A Deep Dive into the New Console's Hardware"
-date: 2025-05-16 10:00:00 +0000
+date: 2025-05-15 10:00:00 +0000
 categories: [Hardware]
 tags: [Nintendo Switch 2, Specs, Hardware, DLSS, Joy-Con 2, Tegra T239]
 description: Discover the full hardware breakdown of the Nintendo Switch 2, including specs for CPU, GPU, RAM, display, Joy-Con 2, and connectivity upgrades in 2025.
