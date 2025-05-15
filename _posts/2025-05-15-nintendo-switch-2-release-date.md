@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nintendo Switch 2 Release Date Confirmed"
-date: 2025-05-15 14:00:00 +0000
+date: 2025-05-14 14:00:00 +0000
 categories: [News]
 tags: [Nintendo, Switch 2, Release Date]
 pin: true
