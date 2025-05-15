@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Will the Nintendo Switch 2 Be Backward Compatible? What You Need to Know"
-date: 2025-05-15 22:00:00 -0500
+date: 2025-05-15 17:00:00 -0500
 categories: [Compatibility]
 tags: [Nintendo Switch 2, Backward Compatibility, Games, eShop, Save Data]
 description: Nintendo Switch 2 backward compatibility confirmed — find out how cartridges, digital games, and cloud saves carry over, plus what accessories still work.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Much Will the Nintendo Switch 2 Cost? Full Breakdown"
-date: 2025-05-15 22:00:00 -0500
+date: 2025-05-15 17:40:00 -0500
 categories: [Pricing]
 tags: [Nintendo Switch 2, Price, Bundle, Comparison, Launch]
 description: Nintendo Switch 2 price revealed. Learn about the $449 base console, bundles, what's included, global pricing, and how it compares to PS5 and Xbox.
