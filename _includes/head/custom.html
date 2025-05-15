@@ -1,0 +1,33 @@
+{% if page.layout == "post" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title | escape }}",
+  "alternativeHeadline": "{{ page.title | escape }}",
+  "image": "{{ site.url }}/assets/img/switch2central.png",
+  "author": {
+    "@type": "Person",
+    "name": "Frank McMahen",
+    "url": "{{ site.url }}/about"
+  },
+  "editor": "Frank McMahen",
+  "genre": "Gaming, Technology",
+  "keywords": "{{ page.tags | join: ', ' }}",
+  "wordcount": "1100",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Switch2Central",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}/assets/img/switch2central.png"
+    }
+  },
+  "url": "{{ site.url }}{{ page.url }}",
+  "mainEntityOfPage": "{{ site.url }}{{ page.url }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "description": "{{ page.description | escape }}"
+}
+</script>
+{% endif %}
