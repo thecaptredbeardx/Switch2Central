@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://switch2central.pages.dev/sitemap.xml
