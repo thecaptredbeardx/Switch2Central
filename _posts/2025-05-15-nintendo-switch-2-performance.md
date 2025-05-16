@@ -134,3 +134,11 @@ Several studios have stated the Switch 2 “feels like a modern console with hyb
 The Nintendo Switch 2 isn’t trying to match the PS5 or Xbox Series X watt-for-watt — but thanks to smart engineering and Nvidia’s tech, it delivers **the best balance of portability, performance, and battery life** in a console to date.
 
 Whether docked or handheld, the experience feels **next-gen where it matters**: speed, fidelity, and fun.
+
+---
+
+## You Might Also Like
+
+- See [the hardware behind these benchmarks](/posts/nintendo-switch-2-specs-revealed/)
+- Learn [how launch games perform](/posts/nintendo-switch-2-games-list/)
+- Discover [how performance impacts battery life](/posts/nintendo-switch-2-battery-life/)

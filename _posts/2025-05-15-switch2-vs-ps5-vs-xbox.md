@@ -103,3 +103,11 @@ In this guide, we’ll compare the **Switch 2 vs PS5 vs Xbox Series X** across k
 - 🎮 **Buy an Xbox Series X** if you want raw power, Game Pass, and excellent backward compatibility.
 
 Each system brings something special — it all comes down to how, where, and what you like to play.
+
+---
+
+## You Might Also Like
+
+- Analyze [Switch 2’s core hardware specs](/posts/nintendo-switch-2-specs-revealed/)
+- See [how the launch lineup compares across consoles](/posts/nintendo-switch-2-games-list/)
+- Review [what you get for the price](/posts/nintendo-switch-2-price/)

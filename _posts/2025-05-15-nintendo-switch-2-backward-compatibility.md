@@ -118,3 +118,11 @@ Always check your favorite titles for **patch notes or updates** via the Nintend
 The Nintendo Switch 2 is shaping up to be Nintendo’s most **backward-compatible console ever**. Whether you’re deep into a 100-hour RPG or you just want to replay Mario Kart 8 Deluxe with new Joy-Cons, your content and progress will carry forward.
 
 Nintendo’s decision to embrace compatibility — both physically and digitally — gives players confidence that their investments are protected and the Switch platform is here to stay.
+
+---
+
+## You Might Also Like
+
+- Explore [which games work across generations](/posts/nintendo-switch-2-games-list/)
+- See [which rumors were right or wrong](/posts/nintendo-switch-2-rumors/)
+- Discover [how compatibility adds value to the console](/posts/nintendo-switch-2-price/)

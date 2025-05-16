@@ -115,3 +115,11 @@ Nintendo Online remains optional for multiplayer/cloud saves. No rumors of a man
 In the end, the **Switch 2 rumors were a mixed bag** — but some leakers definitely nailed it. From the DLSS support and magnetic Joy-Cons to surprise third-party hits like *Call of Duty*, we got a console that lives up to the hype in all the right ways.
 
 Just don’t believe every patent or Reddit post you read before launch.
+
+---
+
+## You Might Also Like
+
+- Confirm [which rumors nailed the launch date](/posts/nintendo-switch-2-release-date/)
+- Review [speculation around compatibility](/posts/nintendo-switch-2-backward-compatibility/)
+- Debunk [false claims about hardware parity](/posts/switch2-vs-ps5-vs-xbox/)

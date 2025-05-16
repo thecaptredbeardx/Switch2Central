@@ -87,3 +87,11 @@ Switch 2 offers the **best battery-to-performance ratio** of any current-gen por
 The Nintendo Switch 2 balances next-gen power with impressive battery efficiency. Whether you're grinding through *Metroid Prime 4* or casually fishing in *Animal Crossing*, you can expect **6 to 10 hours** of play — with plenty of ways to stretch it further.
 
 If battery life matters to you, the Switch 2 is a win.
+
+---
+
+## You Might Also Like
+
+- Compare [framerate and battery trade-offs](/posts/nintendo-switch-2-performance/)
+- See [what specs mean for battery efficiency](/posts/nintendo-switch-2-specs-revealed/)
+- Find out [how older games affect battery usage](/posts/nintendo-switch-2-backward-compatibility/)

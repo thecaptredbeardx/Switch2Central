@@ -88,3 +88,11 @@ Expect it to hold its value for years, just like the original Switch did.
 The Nintendo Switch 2 offers a powerful next-gen experience without the full price tag of its competitors. At **$449.99**, it’s more than just a handheld — it’s a hybrid system built for the future of gaming.
 
 If you're considering a pre-order, the bundle is a great value, especially with a launch title included. And with backward compatibility confirmed, your existing game library gets new life from day one.
+
+---
+
+## You Might Also Like
+
+- See [what the Switch 2 costs at launch](/posts/nintendo-switch-2-release-date/)
+- Explore [what you’re getting for your money](/posts/nintendo-switch-2-specs-revealed/)
+- Compare [value vs other current-gen consoles](/posts/switch2-vs-ps5-vs-xbox/)

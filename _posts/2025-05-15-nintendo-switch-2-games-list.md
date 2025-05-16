@@ -115,3 +115,11 @@ Yes. Nintendo confirmed backward compatibility for:
 The Nintendo Switch 2 launch lineup — even in its early stages — is already stacked. From **Zelda and Mario** to **Metroid Prime 4** and **Call of Duty**, the console is set to cater to both Nintendo fans and third-party lovers alike.
 
 Bookmark this list — we’ll keep updating it as Nintendo drops more reveals.
+
+---
+
+## You Might Also Like
+
+- Review the [Switch 2’s official release timeline](/posts/nintendo-switch-2-release-date/)
+- See [which older games are supported](/posts/nintendo-switch-2-backward-compatibility/)
+- Compare [how the lineup matches up with PS5 and Xbox](/posts/switch2-vs-ps5-vs-xbox/)
