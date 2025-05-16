@@ -28,10 +28,10 @@ description: >- # used by seo meta and the atom feed
 url: "https://switch2central.pages.dev"
 
 github:
-  username: github_username # change to your GitHub username
+  username: thecaptredbeardx # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: thecaptrbx # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -40,8 +40,8 @@ social:
   email: thecaptredbeardx@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://x.com/thecaptrbx # change to your Twitter homepage
+    - https://github.com/thecaptredbeardx # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -61,7 +61,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: RaYPzszaEsUa0Z7nPtU66M9lzc3UaFtFmE7n9R3lrgg # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
