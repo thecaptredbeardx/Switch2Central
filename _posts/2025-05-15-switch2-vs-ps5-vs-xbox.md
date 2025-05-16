@@ -110,4 +110,4 @@ Each system brings something special — it all comes down to how, where, and wh
 
 - Analyze [Switch 2’s core hardware specs](/posts/nintendo-switch-2-specs-revealed/)
 - See [how the launch lineup compares across consoles](/posts/nintendo-switch-2-games-list/)
-- Review [what you get for the price](/posts/nintendo-switch-2-price/)
+- View [how Switch 2 competes with Steam Deck in the handheld space](/posts/nintendo-switch-2-vs-steam-deck/)

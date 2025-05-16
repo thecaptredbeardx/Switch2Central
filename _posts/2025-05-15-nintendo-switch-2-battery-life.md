@@ -94,4 +94,4 @@ If battery life matters to you, the Switch 2 is a win.
 
 - Compare [framerate and battery trade-offs](/posts/nintendo-switch-2-performance/)
 - See [what specs mean for battery efficiency](/posts/nintendo-switch-2-specs-revealed/)
-- Find out [how older games affect battery usage](/posts/nintendo-switch-2-backward-compatibility/)
+- Learn about [Switch 2 accessories that impact battery life](/posts/best-accessories-for-switch-2/)

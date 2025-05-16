@@ -122,4 +122,4 @@ Bookmark this list — we’ll keep updating it as Nintendo drops more reveals.
 
 - Review the [Switch 2’s official release timeline](/posts/nintendo-switch-2-release-date/)
 - See [which older games are supported](/posts/nintendo-switch-2-backward-compatibility/)
-- Compare [how the lineup matches up with PS5 and Xbox](/posts/switch2-vs-ps5-vs-xbox/)
+- Learn [accessories that enhance game compatibility](/posts/best-accessories-for-switch-2/)

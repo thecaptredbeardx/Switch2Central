@@ -102,3 +102,11 @@ These accessories are a must for *Mario Kart* couch sessions or airplane gaming.
 ## Final Thoughts
 
 The Switch 2 is already impressive out of the box — but these 10 accessories will give you an edge, extend your play sessions, and protect your investment. Whether you're a launch-day buyer or planning for the holidays, this gear will future-proof your setup.
+
+---
+
+## You Might Also Like
+
+- Compare [Switch 2 performance across accessories and peripherals](/posts/nintendo-switch-2-performance/)
+- Check [battery life expectations for accessories](/posts/nintendo-switch-2-battery-life/)
+- See [launch games that support enhanced features](/posts/nintendo-switch-2-games-list/)

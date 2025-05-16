@@ -100,4 +100,4 @@ With its advanced specs, DLSS support, upgraded Joy-Cons, and GameChat integrati
 
 - Explore [real-world performance tests](/posts/nintendo-switch-2-performance/)
 - Find out [how the new chip affects battery life](/posts/nintendo-switch-2-battery-life/)
-- See [how specs stack up against PS5 and Xbox](/posts/switch2-vs-ps5-vs-xbox/)
+- Compare [Switch 2 specs against Steam Deck](/posts/nintendo-switch-2-vs-steam-deck/)

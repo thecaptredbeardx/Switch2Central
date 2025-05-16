@@ -140,5 +140,5 @@ Whether docked or handheld, the experience feels **next-gen where it matters**: 
 ## You Might Also Like
 
 - See [the hardware behind these benchmarks](/posts/nintendo-switch-2-specs-revealed/)
-- Learn [how launch games perform](/posts/nintendo-switch-2-games-list/)
-- Discover [how performance impacts battery life](/posts/nintendo-switch-2-battery-life/)
+- Understand [how accessories influence performance and play style](/posts/best-accessories-for-switch-2/)
+- Explore [how Steam Deck and Switch 2 stack up in performance](/posts/nintendo-switch-2-vs-steam-deck/)

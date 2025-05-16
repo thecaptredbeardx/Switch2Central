@@ -104,3 +104,11 @@ In this side-by-side comparison, we’ll break down the key differences in hardw
 - You want to play your Steam library anywhere
 - You love modding and customization
 - You’re okay with heavier hardware and shorter battery life
+
+---
+
+## You Might Also Like
+
+- Compare [Switch 2 vs PS5 and Xbox Series X](/posts/switch2-vs-ps5-vs-xbox/)
+- See [Switch 2’s full specs](/posts/nintendo-switch-2-specs-revealed/)
+- Check [performance benchmarks between consoles](/posts/nintendo-switch-2-performance/)
